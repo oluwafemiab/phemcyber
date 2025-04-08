@@ -9,7 +9,7 @@ Welcome! I’m Oluwafemi — a passionate **Cybersecurity Analyst and Software E
 
 ## 📌 About Me
 
-- 🛡️ MSc in **Cybersecurity & Digital Forensics** from the University of Bedfordshire (UK)
+- 🛡️ MSc in **Cybersecurity** from the University of Bedfordshire (UK)
 - 🔐 Passionate about **threat detection**, **network defense**, and **secure application development**
 - 👨🏽‍💻 Background in full-stack engineering (Laravel, Vue.js, SQL, etc.)
 - 🌍 Committed to securing the global digital space, one system at a time
@@ -30,20 +30,33 @@ Welcome! I’m Oluwafemi — a passionate **Cybersecurity Analyst and Software E
 ## 🧠 Technical Skills
 
 **Cybersecurity:**  
-Threat Analysis, Incident Response, Honeypots, Digital Forensics, NGFWs, SIEM, MISP, Cortex, TheHive, PGP, IDS/IPS
+Threat Analysis, Incident Response, Honeypots, Digital Forensics, NGFWs, SIEM, MISP, Cortex, TheHive, PGP, NextGen, IDS/IPS, Wazuh, IPFire, Proxmox, GoPhishing, Axigen, Darkstat, Dsniff, Driftnet
 
 **Languages & Frameworks:**  
-PHP, JavaScript, Vue.js, React, SQL, HTML, CSS, Laravel
+PHP, JavaScript, Vue.js, React, SQL, HTML, CSS, Laravel, React
+
+**Networking:** 
+LAN/WAN, packet analysis, NGFW configuration, protocol forensics  
+
+**Email Security:** 
+SMTP hardening, encryption (PGP), spam filtering, phishing simulation
 
 **Tools & Platforms:**  
-Wazuh, IPFire, Proxmox, GoPhishing, Axigen, Darkstat, Dsniff, Drift, Visual Studio Code
+Linux (Debian/Ubuntu/Kali), MacOS, Windows, Visual Studio Code, VSCode, VirtualBox, Wireshark, Ntopng, SIEM setup, VM labs
+
+
+## 🎓 Education & Certifications
+
+- **MSc Cybersecurity** – University of Bedfordshire  
+  Focused on network security, cryptography, digital forensics, and incident response.
+
 
 **Certifications:**  
 - Cisco Networking Academy – Cyber Threat Management, IoT Security, Endpoint Security  
-- Huawei – Routing & Switching, Datacom  
+- Huawei – Routing & Switching, Cloud Computing, Big Data and Datacom  
 - Microsoft/LinkedIn – Career Essentials in Cybersecurity  
-- IBM Z Xplore – Concepts  
-
+- IBM Z Xplore – Concepts
+  
 
 ## 🚀 Featured Projects
 
@@ -82,6 +95,9 @@ Wazuh, IPFire, Proxmox, GoPhishing, Axigen, Darkstat, Dsniff, Drift, Visual Stud
 
 
 ## 💼 Work Experience Highlights
+
+**🔧 Administrator – Lidl, UK** *(2024–Present)*  
+Supporting back-office operations while sharpening digital process efficiency.
 
 ### Technical Lead – OMNL (2020–2023)
 - Led secure system design and ICT support initiatives
