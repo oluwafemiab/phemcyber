@@ -1,5 +1,3 @@
-<img src="https://github.com/oluwafemiab/phemcyber/blob/main/myimage.png" alt="Ajijola Oluwafemi Cybersecurity Banner" width="100%">
-
 # 👨‍💻 Ajijola Oluwafemi Blessing — Cybersecurity Analyst | Software Engineer
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/ajijola-oluwafemi-ba839712a)
