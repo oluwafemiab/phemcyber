@@ -6,7 +6,6 @@
 
 Welcome! I’m Oluwafemi — a passionate **Cybersecurity Analyst and Software Engineer** with over 5 years of experience defending IT infrastructures and building secure, user-centric systems. My journey started in full-stack development and evolved into a mission-driven career in cybersecurity.
 
----
 
 ## 📌 About Me
 
@@ -15,7 +14,6 @@ Welcome! I’m Oluwafemi — a passionate **Cybersecurity Analyst and Software E
 - 👨🏽‍💻 Background in full-stack engineering (Laravel, Vue.js, SQL, etc.)
 - 🌍 Committed to securing the global digital space, one system at a time
 
----
 
 ## 🔥 Key Focus Areas
 
@@ -28,7 +26,6 @@ Welcome! I’m Oluwafemi — a passionate **Cybersecurity Analyst and Software E
 - PGP Encryption & Secure Communication  
 - SOC Operations & Incident Response
 
----
 
 ## 🧠 Technical Skills
 
@@ -47,7 +44,6 @@ Wazuh, IPFire, Proxmox, GoPhishing, Axigen, Darkstat, Dsniff, Drift, Visual Stud
 - Microsoft/LinkedIn – Career Essentials in Cybersecurity  
 - IBM Z Xplore – Concepts  
 
----
 
 ## 🚀 Featured Projects
 
@@ -57,15 +53,11 @@ Wazuh, IPFire, Proxmox, GoPhishing, Axigen, Darkstat, Dsniff, Drift, Visual Stud
 - Integrated PGP email encryption, phishing simulation, and secure routing
 - Designed to help SMEs improve email security posture
 
----
-
 ### 🛡️ [Comparative Honeypot Analysis](https://github.com/ajijola/honeypot-comparison)
 
 - Tools: **Heralding**, **MySQL-Honeypotd**, **HoneyDB**
 - Comparative study to evaluate logging efficiency, ease of deployment, and detection value
 - Outcome: Actionable insights for choosing honeypots for targeted cyber defense
-
----
 
 ### 🧲 [Honeypot System with NGFW](https://github.com/ajijola/ngfw-honeypot-system)
 
@@ -73,28 +65,21 @@ Wazuh, IPFire, Proxmox, GoPhishing, Axigen, Darkstat, Dsniff, Drift, Visual Stud
 - Simulated Advanced Persistent Threat (APT) detection in a decoy environment
 - Used to study attacker behavior and design mitigation protocols
 
----
-
 ### 📡 [Security Information and Event Management (SIEM) System](https://github.com/ajijola/siem-wazuh)
 
 - Setup Wazuh integrated with **ntopng** for network monitoring
 - Monitored and analyzed logs for anomaly detection
-
----
 
 ### 💳 [Secure E-Commerce Platform – Obiggi](https://github.com/ajijola/obiggi-secure-ecommerce)
 
 - End-to-end encrypted online store built with modern security protocols  
 - Live: [obiggi.com](https://obiggi.com)
 
----
-
 ### 🧾 [Secure Payment System for Microfinance](https://github.com/ajijola/m-shood-payment-secure)
 
 - Built a payment solution with fraud detection and secure transaction logic  
 - Live: [m-shoodps.com.ng](https://m-shoodps.com.ng)
 
----
 
 ## 💼 Work Experience Highlights
 
@@ -108,7 +93,6 @@ Wazuh, IPFire, Proxmox, GoPhishing, Axigen, Darkstat, Dsniff, Drift, Visual Stud
 ### Web Developer – Phemtech (2016–2018)
 - Built responsive and secure web applications for SMEs
 
----
 
 ## 🏆 Achievements
 
@@ -116,7 +100,6 @@ Wazuh, IPFire, Proxmox, GoPhishing, Axigen, Darkstat, Dsniff, Drift, Visual Stud
 - 🛡️ Deployed **ETA Talon System** securely at the College of Aviation, Zaria
 - 🔒 Upgraded servers at RAMFC with secure configuration and performance optimization
 
----
 
 ## 📫 Let’s Connect
 
