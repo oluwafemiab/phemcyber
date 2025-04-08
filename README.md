@@ -8,6 +8,15 @@ Welcome! I’m Oluwafemi — a passionate **Cybersecurity Analyst and Software E
 
 ---
 
+## 📌 About Me
+
+- 🛡️ MSc in **Cybersecurity & Digital Forensics** from the University of Bedfordshire (UK)
+- 🔐 Passionate about **threat detection**, **network defense**, and **secure application development**
+- 👨🏽‍💻 Background in full-stack engineering (Laravel, Vue.js, SQL, etc.)
+- 🌍 Committed to securing the global digital space, one system at a time
+
+---
+
 ## 🔥 Key Focus Areas
 
 - Email Security & Anti-Phishing Gateways  
@@ -18,16 +27,6 @@ Welcome! I’m Oluwafemi — a passionate **Cybersecurity Analyst and Software E
 - Endpoint Security & NGFW Integration  
 - PGP Encryption & Secure Communication  
 - SOC Operations & Incident Response
-
----
-
-
-## 📌 About Me
-
-- 🛡️ MSc in **Cybersecurity & Digital Forensics** from the University of Bedfordshire (UK)
-- 🔐 Passionate about **threat detection**, **network defense**, and **secure application development**
-- 👨🏽‍💻 Background in full-stack engineering (Laravel, Vue.js, SQL, etc.)
-- 🌍 Committed to securing the global digital space, one system at a time
 
 ---
 
