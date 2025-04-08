@@ -29,20 +29,66 @@ Welcome! I’m Oluwafemi — a passionate **Cybersecurity Analyst and Software E
 
 ## 🧠 Technical Skills
 
-**Cybersecurity:**  
-Threat Analysis, Incident Response, Honeypots, Digital Forensics, NGFWs, SIEM, MISP, Cortex, TheHive, PGP, NextGen, IDS/IPS, Wazuh, IPFire, Proxmox, GoPhishing, Axigen, Darkstat, Dsniff, Driftnet
+## 🛠️ Cybersecurity Stack
 
-**Languages & Frameworks:**  
-PHP, JavaScript, Vue.js, React, SQL, HTML, CSS, Laravel, React
+![Threat Analysis](https://img.shields.io/badge/Threat_Analysis-%2300bfff?style=flat-square)
+![Incident Response](https://img.shields.io/badge/Incident_Response-%2300bfa5?style=flat-square)
+![Honeypots](https://img.shields.io/badge/Honeypots-%239c27b0?style=flat-square)
+![Digital Forensics](https://img.shields.io/badge/Digital_Forensics-%23ff9800?style=flat-square)
+![SIEM](https://img.shields.io/badge/SIEM-%231e88e5?style=flat-square)
+![IDS/IPS](https://img.shields.io/badge/IDS%2FIPS-%239607b0?style=flat-square)
+![NextGen Firewall](https://img.shields.io/badge/NGFW-%23d32f2f?style=flat-square)
+![PGP](https://img.shields.io/badge/PGP_Encryption-%23008b8b?style=flat-square)
+![MISP](https://img.shields.io/badge/MISP-Threat_Intel-%233f51b5?style=flat-square)
+![TheHive](https://img.shields.io/badge/TheHive-Incident_Mgmt-%23fdd835?style=flat-square)
+![Cortex](https://img.shields.io/badge/Cortex-Automation-%234caf50?style=flat-square)
+![Wazuh](https://img.shields.io/badge/Wazuh-SIEM-%230072b1?style=flat-square)
+![IPFire](https://img.shields.io/badge/IPFire-Firewall-%23ff1744?style=flat-square)
+![Proxmox](https://img.shields.io/badge/Proxmox-Mail_Gateway-%23ef6c00?style=flat-square)
+![GoPhishing](https://img.shields.io/badge/GoPhish-Phishing_Sim-%23d84315?style=flat-square)
+![Axigen](https://img.shields.io/badge/Axigen-Mail_Server-%23006292?style=flat-square)
+![Darkstat](https://img.shields.io/badge/Darkstat-Network_Stats-%236d4c41?style=flat-square)
+![Dsniff](https://img.shields.io/badge/Dsniff-Packet_Sniffer-%23007e33?style=flat-square)
+![Driftnet](https://img.shields.io/badge/Driftnet-Traffic_Capture-%238e24aa?style=flat-square)
 
-**Networking:** 
-LAN/WAN, packet analysis, NGFW configuration, protocol forensics  
+## 💻 Languages & Frameworks
 
-**Email Security:** 
-SMTP hardening, encryption (PGP), spam filtering, phishing simulation
+![PHP](https://img.shields.io/badge/PHP-%23777bb3?style=flat-square&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23f7df1e?style=flat-square&logo=javascript&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-%234fc08d?style=flat-square&logo=vue.js&logoColor=white)
+![React](https://img.shields.io/badge/React-%2361dafb?style=flat-square&logo=react&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-%23e38c00?style=flat-square)
+![HTML](https://img.shields.io/badge/HTML5-%23e34f26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-%231572b6?style=flat-square&logo=css3&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-%23ff2d20?style=flat-square&logo=laravel&logoColor=white)
 
-**Tools & Platforms:**  
-Linux (Debian/Ubuntu/Kali), MacOS, Windows, Visual Studio Code, VSCode, VirtualBox, Wireshark, Ntopng, SIEM setup, VM labs
+## 🌐 Networking
+
+![LAN/WAN](https://img.shields.io/badge/LAN/WAN-Networking-%232196f3?style=flat-square)
+![Packet Analysis](https://img.shields.io/badge/Packet_Analysis-%23009800?style=flat-square)
+![NGFW Config](https://img.shields.io/badge/NGFW_Configuration-%23c62828?style=flat-square)
+![Protocol Forensics](https://img.shields.io/badge/Protocol_Forensics-%237e57c2?style=flat-square)
+
+## ✉️ Email Security
+
+![SMTP Hardening](https://img.shields.io/badge/SMTP_Hardening-%233f51b5?style=flat-square)
+![PGP Encryption](https://img.shields.io/badge/PGP_Encryption-%23009faf?style=flat-square)
+![Spam Filtering](https://img.shields.io/badge/Spam_Filtering-%23ffa000?style=flat-square)
+![Phishing Simulation](https://img.shields.io/badge/Phishing_Simulation-%23b71c1c?style=flat-square)
+
+## 🧰 Tools & Platforms
+
+![Linux](https://img.shields.io/badge/Linux-%23fbc02d?style=flat-square&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-%23dd4814?style=flat-square&logo=ubuntu&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-%23003b49?style=flat-square&logo=kalilinux&logoColor=white)
+![MacOS](https://img.shields.io/badge/MacOS-%23a2aaad?style=flat-square&logo=apple&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-%230078d6?style=flat-square&logo=windows&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS_Code-%23007acc?style=flat-square&logo=visualstudiocode&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-%23007bff?style=flat-square&logo=virtualbox&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-%231679a7?style=flat-square&logo=wireshark&logoColor=white)
+![Ntopng](https://img.shields.io/badge/Ntopng-Network_Monitor-%23327cbb?style=flat-square)
+![VM Labs](https://img.shields.io/badge/VM_Labs-Cyber_Range-%2300c853?style=flat-square)
+
 
 
 ## 🎓 Education & Certifications
