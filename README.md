@@ -60,7 +60,7 @@ Linux (Debian/Ubuntu/Kali), MacOS, Windows, Visual Studio Code, VSCode, VirtualB
 
 ## 🚀 Featured Projects
 
-### 🔐 [Development of Email Security Gateway](https://github.com/ajijola/email-security-gateway)
+### 🔐 [Development of Email Security Gateway](https://github.com/phemtech-solutions/email-security-gateway)
 
 - Built using: **Axigen Mail Server, Proxmox Mail Gateway, GoPhishing, PGP, Thunderbolt**
 - Integrated PGP email encryption, phishing simulation, and secure routing
