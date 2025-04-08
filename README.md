@@ -96,7 +96,7 @@ Linux (Debian/Ubuntu/Kali), MacOS, Windows, Visual Studio Code, VSCode, VirtualB
 
 ## 💼 Work Experience Highlights
 
-**🔧 Administrator – Lidl, UK** *(2024–Present)*  
+### Administrator – Lidl, UK** *(2024–Present)*  
 Supporting back-office operations while sharpening digital process efficiency.
 
 ### Technical Lead – OMNL (2020–2023)
