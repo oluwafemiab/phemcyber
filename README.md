@@ -1,8 +1,8 @@
 # 👨‍💻 Ajijola Oluwafemi Blessing — Cybersecurity Analyst | Software Engineer
 
-![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=flat-square)
-![Location](https://img.shields.io/badge/Based_in-United_Kingdom-007EC6?style=flat-square)
-![Cybersecurity](https://img.shields.io/badge/Role-Cybersecurity_Analyst-success?style=flat-square)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/ajijola-oluwafemi-ba839712a)
+[![Location](https://img.shields.io/badge/Based_in-United_Kingdom-007EC6?style=flat-square)](https://www.google.com/maps/place/Luton,+UK)
+[![Cybersecurity](https://img.shields.io/badge/Role-Cybersecurity_Analyst-success?style=flat-square)](https://en.wikipedia.org/wiki/Computer_security)
 
 Welcome! I’m Oluwafemi — a passionate **Cybersecurity Analyst and Software Engineer** with over 5 years of experience defending IT infrastructures and building secure, user-centric systems. My journey started in full-stack development and evolved into a mission-driven career in cybersecurity.
 
