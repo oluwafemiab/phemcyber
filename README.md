@@ -96,13 +96,23 @@ Welcome! I’m Oluwafemi — a passionate **Cybersecurity Analyst and Software E
 - **MSc Cybersecurity** – University of Bedfordshire  
   Focused on network security, cryptography, digital forensics, and incident response.
 
+---
 
-**Certifications:**  
-- Cisco Networking Academy – Cyber Threat Management, IoT Security, Endpoint Security  
-- Huawei – Routing & Switching, Cloud Computing, Big Data and Datacom  
-- Microsoft/LinkedIn – Career Essentials in Cybersecurity  
-- IBM Z Xplore – Concepts
-  
+## 🎓 Certifications
+
+![Cisco](https://img.shields.io/badge/Cisco-Cyber_Threat_Mgmt-%23007ACC?style=flat-square&logo=cisco&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-IoT_Security-%23007ACC?style=flat-square&logo=cisco&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-Endpoint_Security-%23007ACC?style=flat-square&logo=cisco&logoColor=white)
+
+![Huawei](https://img.shields.io/badge/Huawei-Routing_&_Switching-%23ff0000?style=flat-square&logo=huawei&logoColor=white)
+![Huawei](https://img.shields.io/badge/Huawei-Cloud_Computing-%23d32f2f?style=flat-square&logo=huawei&logoColor=white)
+![Huawei](https://img.shields.io/badge/Huawei-Datacom_&_BigData-%23ff5722?style=flat-square&logo=huawei&logoColor=white)
+
+![Microsoft](https://img.shields.io/badge/Microsoft_Career_Essentials-Cybersecurity-%230078D4?style=flat-square&logo=microsoft&logoColor=white)
+![LinkedIn Learning](https://img.shields.io/badge/LinkedIn_Learning-Cybersecurity_Basics-%230077B5?style=flat-square&logo=linkedin&logoColor=white)
+
+![IBM Z Xplore](https://img.shields.io/badge/IBM_Z_Xplore-Mainframe_Concepts-blue?style=flat-square&logo=ibm&logoColor=white)
+
 
 ## 🚀 Featured Projects
 
