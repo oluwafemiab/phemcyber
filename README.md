@@ -7,12 +7,14 @@
 Welcome! I’m Oluwafemi — a passionate **Cybersecurity Analyst and Software Engineer** with over 5 years of experience defending IT infrastructures and building secure, user-centric systems. My journey started in full-stack development and evolved into a mission-driven career in cybersecurity.
 
 
+
 ## 📌 About Me
 
 - 🛡️ MSc in **Cybersecurity** from the University of Bedfordshire (UK)
 - 🔐 Passionate about **threat detection**, **network defense**, and **secure application development**
 - 👨🏽‍💻 Background in full-stack engineering (Laravel, Vue.js, SQL, etc.)
 - 🌍 Committed to securing the global digital space, one system at a time
+
 
 
 ## 🔥 Key Focus Areas
@@ -25,6 +27,7 @@ Welcome! I’m Oluwafemi — a passionate **Cybersecurity Analyst and Software E
 - Endpoint Security & NGFW Integration  
 - PGP Encryption & Secure Communication  
 - SOC Operations & Incident Response
+
 
 
 ## 🧠 Technical Skills
@@ -96,7 +99,7 @@ Welcome! I’m Oluwafemi — a passionate **Cybersecurity Analyst and Software E
 - **MSc Cybersecurity** – University of Bedfordshire  
   Focused on network security, cryptography, digital forensics, and incident response.
 
----
+
 
 ## 🎓 Certifications
 
@@ -112,6 +115,7 @@ Welcome! I’m Oluwafemi — a passionate **Cybersecurity Analyst and Software E
 ![LinkedIn Learning](https://img.shields.io/badge/LinkedIn_Learning-Cybersecurity_Basics-%230077B5?style=flat-square&logo=linkedin&logoColor=white)
 
 ![IBM Z Xplore](https://img.shields.io/badge/IBM_Z_Xplore-Mainframe_Concepts-blue?style=flat-square&logo=ibm&logoColor=white)
+
 
 
 ## 🚀 Featured Projects
@@ -150,20 +154,36 @@ Welcome! I’m Oluwafemi — a passionate **Cybersecurity Analyst and Software E
 - Live: [m-shoodps.com.ng](https://m-shoodps.com.ng)
 
 
+
 ## 💼 Work Experience Highlights
 
-### Administrator – Lidl, UK** *(2024–Present)*  
-Supporting back-office operations while sharpening digital process efficiency.
+### 🏢 **Administrator – Lidl, UK** *(2024–Present)*
+- Supporting back-office operations while sharpening digital process efficiency
+- Applying organizational and technical skills in a fast-paced retail environment
 
-### Technical Lead – OMNL (2020–2023)
-- Led secure system design and ICT support initiatives
+### 🛠️ **Technical Lead – OMNL** *(2020–2023)*
+- Led secure system design and national ICT support initiatives
 - Integrated secure verification systems with NIMC Tokenization
+- Improved uptime and data security of internal services
 
-### IT Support Engineer – OMNL (2019–2020)
-- Maintained secure networking and remote technical assistance
+### 🧰 **IT Support Engineer – OMNL** *(2019–2020)*
+- Delivered remote and onsite support with secure networking solutions
+- Configured systems and resolved user-level technical issues
+- Conducted system audits and security patch management
 
-### Web Developer – Phemtech (2016–2018)
+### 🌐 **Web Developer – Phemtech** *(2016–2018)*
 - Built responsive and secure web applications for SMEs
+- Focused on front-end + back-end development using PHP, Laravel, and JS
+- Improved system usability, performance, and uptime
+  
+
+### 🧾 Quick View (Badges)
+
+![Lidl](https://img.shields.io/badge/Lidl-Administrator-yellow?style=flat-square&logo=lidl&logoColor=black)
+![OMNL](https://img.shields.io/badge/OMNL-Technical_Lead-blue?style=flat-square)
+![OMNL](https://img.shields.io/badge/OMNL-IT_Support_Engineer-green?style=flat-square)
+![Phemtech](https://img.shields.io/badge/Phemtech-Web_Developer-orange?style=flat-square)
+
 
 
 ## 🏆 Achievements
