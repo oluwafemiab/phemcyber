@@ -8,6 +8,20 @@ Welcome! I’m Oluwafemi — a passionate **Cybersecurity Analyst and Software E
 
 ---
 
+## 🔥 Key Focus Areas
+
+- Email Security & Anti-Phishing Gateways  
+- Network Defense & Threat Analysis  
+- Honeypot Design & Comparative Evaluation  
+- Security Automation (MISP, TheHive, Cortex)  
+- SIEM & Log Correlation (Wazuh, ntopng)  
+- Endpoint Security & NGFW Integration  
+- PGP Encryption & Secure Communication  
+- SOC Operations & Incident Response
+
+---
+
+
 ## 📌 About Me
 
 - 🛡️ MSc in **Cybersecurity & Digital Forensics** from the University of Bedfordshire (UK)
