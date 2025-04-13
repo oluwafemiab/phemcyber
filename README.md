@@ -143,12 +143,12 @@ Welcome! I’m Oluwafemi — a passionate **Cybersecurity Analyst and Software E
 - Setup Wazuh integrated with **ntopng** for network monitoring
 - Monitored and analyzed logs for anomaly detection
 
-### 💳 [Secure E-Commerce Platform – Obiggi](https://github.com/oluwafemiab/obiggi-secure-ecommerce)
+### 💳 [Secure E-Commerce Platform – Obiggi](https://obiggi.com)
 
 - End-to-end encrypted online store built with modern security protocols  
 - Live: [obiggi.com](https://obiggi.com)
 
-### 🧾 [Secure Payment System for Microfinance](https://github.com/oluwafemiab/m-shood-payment-secure)
+### 🧾 [Secure Payment System for Microfinance](https://m-shoodps.com.ng)
 
 - Built a payment solution with fraud detection and secure transaction logic  
 - Live: [m-shoodps.com.ng](https://m-shoodps.com.ng)
