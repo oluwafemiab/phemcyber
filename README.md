@@ -120,35 +120,35 @@ Welcome! I’m Oluwafemi — a passionate **Cybersecurity Analyst and Software E
 
 ## 🚀 Featured Projects
 
-### 🔐 [Development of Email Security Gateway](https://github.com/phemtech-solutions/email-security-gateway)
+### 🔐 [Development of Email Security Gateway](https://github.com/oluwafemiab/email-security-gateway)
 
 - Built using: **Axigen Mail Server, Proxmox Mail Gateway, GoPhishing, PGP, Thunderbolt**
 - Integrated PGP email encryption, phishing simulation, and secure routing
 - Designed to help SMEs improve email security posture
 
-### 🛡️ [Comparative Honeypot Analysis](https://github.com/ajijola/honeypot-comparison)
+### 🛡️ [Comparative Honeypot Analysis](https://github.com/oluwafemiab/honeypot-comparison)
 
 - Tools: **Heralding**, **MySQL-Honeypotd**, **HoneyDB**
 - Comparative study to evaluate logging efficiency, ease of deployment, and detection value
 - Outcome: Actionable insights for choosing honeypots for targeted cyber defense
 
-### 🧲 [Honeypot System with NGFW](https://github.com/ajijola/ngfw-honeypot-system)
+### 🧲 [Honeypot System with NGFW](https://github.com/oluwafemiab/ngfw-honeypot-system)
 
 - Integrated **Cowrie & Dionaea honeypots** with **IPFire NGFW**
 - Simulated Advanced Persistent Threat (APT) detection in a decoy environment
 - Used to study attacker behavior and design mitigation protocols
 
-### 📡 [Security Information and Event Management (SIEM) System](https://github.com/ajijola/siem-wazuh)
+### 📡 [Security Information and Event Management (SIEM) System](https://github.com/oluwafemiab/siem-wazuh)
 
 - Setup Wazuh integrated with **ntopng** for network monitoring
 - Monitored and analyzed logs for anomaly detection
 
-### 💳 [Secure E-Commerce Platform – Obiggi](https://github.com/ajijola/obiggi-secure-ecommerce)
+### 💳 [Secure E-Commerce Platform – Obiggi](https://github.com/oluwafemiab/obiggi-secure-ecommerce)
 
 - End-to-end encrypted online store built with modern security protocols  
 - Live: [obiggi.com](https://obiggi.com)
 
-### 🧾 [Secure Payment System for Microfinance](https://github.com/ajijola/m-shood-payment-secure)
+### 🧾 [Secure Payment System for Microfinance](https://github.com/oluwafemiab/m-shood-payment-secure)
 
 - Built a payment solution with fraud detection and secure transaction logic  
 - Live: [m-shoodps.com.ng](https://m-shoodps.com.ng)
