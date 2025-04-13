@@ -153,6 +153,12 @@ Welcome! I’m Oluwafemi — a passionate **Cybersecurity Analyst and Software E
 - Built a payment solution with fraud detection and secure transaction logic  
 - Live: [m-shoodps.com.ng](https://m-shoodps.com.ng)
 
+### 🧾 [CryptoToilet](https://cryptotoilet.net)
+
+- A Web3 meme-powered platform turning your digital crap into crypto  
+- Built with humor, community engagement, and blockchain absurdity in mind  
+- Live: [cryptotoilet.net](https://cryptotoilet.net)
+
 
 
 ## 💼 Work Experience Highlights
