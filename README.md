@@ -1,4 +1,5 @@
-# 👨‍💻 Ajijola Oluwafemi Blessing — Cybersecurity | Software Engineering | IT Support | Consulting | Research
+# 👨‍💻 Ajijola Oluwafemi Blessing  
+**Cybersecurity • Software • IT Support • Research**
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/ajijola-oluwafemi-ba839712a)
 [![Location](https://img.shields.io/badge/Based_in-United_Kingdom-007EC6?style=flat-square)](https://www.google.com/maps/place/Luton,+UK)
